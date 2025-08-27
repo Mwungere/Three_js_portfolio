@@ -42,13 +42,13 @@ const Contact = () => {
           });
 
           setTimeout(() => {
-            hideAlert(false);
+            hideAlert();
             setForm({
               name: '',
               email: '',
               message: '',
             });
-          }, [3000]);
+          }, 3000);
         },
         (error) => {
           setLoading(false);
