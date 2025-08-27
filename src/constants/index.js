@@ -32,24 +32,24 @@ export const clientReviews = [
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
+    name: 'Nkingi Godsave',
+    position: '',
     img: 'assets/review2.png',
     review:
       'Elite’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
+    name: 'VeriTech IT Services',
+    position: '',
     img: 'assets/review3.png',
     review:
       'I can’t say enough good things about Elite. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
+    name: 'Gakwerere Godfrey',
+    position: '',
     img: 'assets/review4.png',
     review:
       'Elite was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
